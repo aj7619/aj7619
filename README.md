@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Anjali Jha (aj7619)
+# 👋 Hi there, I'm Anjali Jha 
 
 🎓 **Final-year B.Tech CSE student** at SRM Institute of Science and Technology, Kattankulathur  
 💻 Passionate about **Machine Learning**, **AI**, and **Cloud Technologies**  
